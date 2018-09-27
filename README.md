@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="http://holochain.org/"><img src="https://img.shields.io/badge/project-holochain-yellow.svg?style=flat-square" /></a>
-  <a href="https://chat.holochain.net"><img src="https://img.shields.io/badge/chat-chat%2eholochain%2e.net-yellow.svg?style=flat-square" /></a>
+  <a href="https://chat.holochain.net"><img src="https://img.shields.io/badge/chat-chat%2eholochain%2enet-yellow.svg?style=flat-square" /></a>
   <a href="https://waffle.io/holochian/org"><img src="https://img.shields.io/badge/pm-waffle-yellow.svg?style=flat-square" /></a>
 </p>
 
