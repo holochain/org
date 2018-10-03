@@ -20,4 +20,4 @@ Tickets being managed at https://waffle.io/holochain/org
 
 ### Contribute
 
-Holochain is an open source project.  We welcome all sorts of participation and are actively working on increasing surface area to accept it.  Please see our [contributing guidelines](https://github.com/holochain/org/master/CONTRIBUTING.md) for our general practices and protocols on participating in the community. Note that each particular repo may have specific instructions for contribution to that particular part of the project.
+Holochain is an open source project.  We welcome all sorts of participation and are actively working on increasing surface area to accept it.  Please see our [contributing guidelines](https://github.com/holochain/org/blob/master/CONTRIBUTING.md) for our general practices and protocols on participating in the community. Note that each particular repo may have specific instructions for contribution to that particular part of the project.
