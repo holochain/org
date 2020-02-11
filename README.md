@@ -14,6 +14,8 @@
 
 ### Project Management
 
+Maybe migrating to JIRA?
+
 Tickets being managed at https://waffle.io/holochain/org
 
 [![Throughput Graph](https://graphs.waffle.io/holochain/org/throughput.svg)](https://waffle.io/holochain/org/metrics/throughput)
